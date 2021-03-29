@@ -1,7 +1,7 @@
 블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.03.28) &nbsp;
 https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751 &nbsp;
 
- &nbsp; &nbsp; &nbsp; 
+ &nbsp; &nbsp; &nbsp;
 [이터니티] 저크보 나딘 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?%20id=bser&no=858322 &nbsp;
 글레이프니르 레녹스 [스증] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880 &nbsp;
 
