@@ -1,10 +1,10 @@
 
-
 BSER Demigod/Eternity User Walkthroughs(21.03.28) \
 (Note. I don't have any plans to translate posts. \
 You can use google/papago translation or watch their twitch to understand these. \
 But I will gratefully accept your commits of translated contents.) \
-https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751 \
+https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751 
+\
 \
 \
 \
