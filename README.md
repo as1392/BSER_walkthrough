@@ -1,26 +1,26 @@
 블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.03.28)\
-https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751 \
-For english version : see https://github.com/as1392/BSER_walkthrough/blob/main/README_en.md
+[원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
+For english version : see [Here](https://github.com/as1392/BSER_walkthrough/blob/main/README_en.md)
 \
 \
 \
-[이터니티] 저크보 나딘 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322 \
-글레이프니르 레녹스 [스증] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880 
-\
-\
-\
-\
-\
-일렉 로지 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=870624 \
-[이터니티] 매그넘보아 로지 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=996305
+[이터니티] 저크보 나딘 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322) \
+글레이프니르 레녹스 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880) 
 \
 \
 \
 \
-여신상 루크 [평타/치명] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821587&exception_mode=recommend&page=1 \
-여신상 루크 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859&search_head=20&page=1 \
-타구봉 루크 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=950498&search_head=20&page=1 \
-여신상 루크 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952492&search_head=20&page=1 
+\
+일렉 로지 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=870624) \
+[이터니티] 매그넘보아 로지 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=996305)
+\
+\
+\
+\
+여신상 루크 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821587) \
+여신상 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859) \
+타구봉 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=95049) \
+여신상 루크 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952492) 
 \
 \
 \
