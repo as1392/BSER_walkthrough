@@ -105,7 +105,6 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 \
 \
 \
-
 건곤권 엠마 [스증] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=781690 \
 풍마수리검 엠마 [스증] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=836089 \
 [이터니티] 건곤권 엠마 [스증] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=863389 \
@@ -234,7 +233,3 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 \
 \
 \
-BSER Demigod/Eternity User Walkthroughs(21.03.28)
-(Note. I don't have any plans to translate posts. 
-You can use google/papago translation or watch their twitch to understand these. 
-But I will gratefully accept your commits of translated contents.)
