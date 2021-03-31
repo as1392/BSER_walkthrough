@@ -4,7 +4,12 @@ For english version : see [Here](https://github.com/as1392/BSER_walkthrough/blob
 \
 \
 \
-[이터니티] 저크보 나딘 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322) \
+[이터니티] 저크보 나딘 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322)
+\
+\
+\
+\
+\
 글레이프니르 레녹스 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880) 
 \
 \
@@ -41,6 +46,7 @@ For english version : see [Here](https://github.com/as1392/BSER_walkthrough/blob
 낭아봉 매그너스 [스증] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=930218 \
 다그다 매그너스 [체젠] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=940540 \
 [이터니티] 낭아봉 매그너스 [스증] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=969058
+[이터니티] 여신상 매그너스 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024884
 \
 \
 \
@@ -57,6 +63,12 @@ For english version : see [Here](https://github.com/as1392/BSER_walkthrough/blob
 \
 [이터니티] 파산검 쇼이치 [스증] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821949 \
 파산검 쇼이치 [스증] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=853811
+\
+\
+\
+\
+\
+[임시] 매그넘보아 실비아 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1031339
 \
 \
 \
@@ -86,8 +98,7 @@ For english version : see [Here](https://github.com/as1392/BSER_walkthrough/blob
 \
 \
 [이터니티] 엘레강스 아야 [스증] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=742499 \
-엘레강스 아야 [스증] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925684 \
-[이터니티] TAC-50 아야 [스증] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=968924 
+엘레강스 아야 [스증] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925684 
 \
 \
 \
@@ -98,8 +109,7 @@ AK-12 아이솔 [평타/치명] (2월) https://gall.dcinside.com/mgallery/board/
 XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=816337 \
 XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=843811 \
 [이터니티] 엘레강스 아이솔 [스증] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=872405 \
-매그넘보아 아이솔 [하이브리드] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=902002 \
-엘레강스 아이솔 [스증] (3월) (링크 깨짐) 
+매그넘보아 아이솔 [하이브리드] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=902002 
 \
 \
 \
@@ -144,11 +154,11 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 (2) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=885091 
 \
 \
-모노호시자오 재키 [평타/치명] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=885197 \
 카른웬난 재키 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=928076 \
 산타 무에르테/파라슈 재키 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=883771 \
 다마스커스 재키 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=974920 \
-[이터니티] 카른웬난 재키 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020009
+[이터니티] 카른웬난 재키 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020009 \
+[이터니티] 모노호시자오 재키 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1029785 
 \
 \
 \
@@ -157,7 +167,9 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 \
 카른웬난 캐시 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=922612 \
 카른웬난 캐시 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=896607 \
-카른웬난 캐시 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=947059 
+카른웬난 캐시 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=947059 \
+[이터니티] 카른웬난 캐시 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1026548
+[이터니티] 초진동/다마스커스 가시 캐시 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1034034
 \
 \
 \
@@ -179,11 +191,6 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 (2) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812443 \
 (3) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812530 
 \
-\
-\
-\
-\
-\
 [이터니티] 듀랜달 피오라 [평타/치명] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933321 \
 듀란달 피오라 [평타/치명] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=886140 \
 [이터니티] 듀랜달 피오라 [평타/치명] (3월) \
@@ -202,7 +209,7 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 [이터니티] 새티스팩션/더월 하트 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=844154 \
 [이터니티] 보헤미안 하트 [스증] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=915532 \
 새티스팩션/더월 하트 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=954533 \
-[이터니티] 천국의계단 하트 [스증/탱] (3월) (링크 음슴)\
+[이터니티] 천국의계단 하트 [스증/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1013070
 \
 \
 \
@@ -213,7 +220,8 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 [이터니티] 단영촌 현우 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=960053 \
 [이터니티] 플톤 현우 [스증/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=943493 \
 [이터니티] 블윙 현우 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952575 \
-[이터니티] 브레이질 현우 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1008898 
+[이터니티] 브레이질 현우 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1008898 \
+[이터니티] 디바인 피스트 현우 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1022840
 \
 \
 \
@@ -229,6 +237,7 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 \
 \
 [이터니티] 볼틱/듀랜달 아델라 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=994212 
+[이터니티] 미스틸테인 아델라 [스증/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024434
 \
 \
 \
