@@ -26,3 +26,6 @@
 [영원회귀 레딧 BSER Reddit](https://www.reddit.com/r/eternalreturn/) \
 [영원회귀 DC인사이드 마이너 갤러리 BSER DC](https://gall.dcinside.com/mgallery/board/view/?id=bser) \
 [영원회귀 인벤 BSER Inven](http://er.inven.co.kr/)
+
+
+수정하는법 테스트
