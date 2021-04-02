@@ -1,8 +1,7 @@
 # 블랙서바이벌 영원회귀 공략 BSER Walkthrough
 
 \
-[솔로 공략](https://github.com/as1392/BSER_walkthrough/blob/main/walkthrough/solo.md) \
-[Walkthough-Solo](https://github.com/as1392/BSER_walkthrough/blob/main/walkthrough/solo_en.md)
+[솔로 공략](https://github.com/as1392/BSER_walkthrough/blob/main/walkthrough/solo.md) [Walkthrough-Solo](https://github.com/as1392/BSER_walkthrough/blob/main/walkthrough/solo_en.md)
 \
 \
 \
