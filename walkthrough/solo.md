@@ -1,4 +1,4 @@
-블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.03.28)\
+블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.02)\
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 \
@@ -187,19 +187,22 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 \
 \
 [이터니티] 뚜언띠엔 피오라 [평타/치명] (2월) \
-(1) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812392 \
-(2) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812443 \
-(3) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812530 
+(공략) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812392 \
+(상대법 1) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812443 \
+(상대법 2) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812530 
 \
 [이터니티] 듀랜달 피오라 [평타/치명] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933321 \
 듀란달 피오라 [평타/치명] (2월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=886140 \
 [이터니티] 듀랜달 피오라 [평타/치명] (3월) \
-(1) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933321 \
-(2) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933324 \
-(3) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933330
+[공략] https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933321 \
+[상대법 1] https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933324 \
+[상대법 2]https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933330
 \
 \
-[이터니티] 듀랜달 피오라 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1009381
+[이터니티] 듀랜달 피오라 [평타/치명] (3월) \
+[공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1009381) \
+[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038556) \
+[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038903)
 \
 \
 \
@@ -221,7 +224,11 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 [이터니티] 플톤 현우 [스증/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=943493 \
 [이터니티] 블윙 현우 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952575 \
 [이터니티] 브레이질 현우 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1008898 \
-[이터니티] 디바인 피스트 현우 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1022840
+[이터니티] 디바인 피스트 현우 [평타/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1022840 \
+[이터니티] 택티컬 톤파 현우 [스증] (4월) \ 
+[루트 1] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038334) \
+[루트 2] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038959) \
+[상대법] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038959)
 \
 \
 \
@@ -237,7 +244,7 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 \
 \
 [이터니티] 볼틱/듀랜달 아델라 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=994212 
-[이터니티] 미스틸테인 아델라 [스증/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024434
+~~[이터니티] 미스틸테인 아델라 [스증/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024434~~
 \
 \
 \
