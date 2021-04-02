@@ -1,6 +1,6 @@
 # 블랙서바이벌 영원회귀 공략 BSER Walkthrough
 
-<img src="../images/title.png" alt="title" width="500"/>
+<img src="../images/etcs/title.png" alt="title" width="500"/>
 [솔로 공략](https://github.com/as1392/BSER_walkthrough/blob/main/walkthrough/solo.md) [Walkthrough-Solo](https://github.com/as1392/BSER_walkthrough/blob/main/walkthrough/solo_en.md)
 \
 \
