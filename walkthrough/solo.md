@@ -1,6 +1,6 @@
 블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.03.28)\
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
-For english version : see [Here](./README_en.md)
+For english version : see [Here](./solo_en.md)
 \
 \
 \
