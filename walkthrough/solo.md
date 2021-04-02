@@ -5,8 +5,9 @@ For english version : see [Here](./solo_en.md)
 
 
 <img src="../images/characters/Adela-아델라.png" alt="Adela-아델라" height="300"/>
+
 [이터니티] 볼틱/듀랜달 아델라 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=994212) \
-~~[이터니티] 미스틸테인 아델라 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024434)~~ (작성자 왈 '뒤짐')
+~~ [이터니티] 미스틸테인 아델라 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024434) ~~ (작성자 왈 '뒤짐')
 
 
 
