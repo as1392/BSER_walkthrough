@@ -2,6 +2,8 @@
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 
+#![아델라](../images/Adela-아델라.png)
+
 [이터니티] 저크보 나딘 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322)
 
 글레이프니르 레녹스 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880) 
