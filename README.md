@@ -9,7 +9,7 @@
 \
 #외부 링크 External Links
 \
-[영원회귀 홈페이지](https://playeternalreturn.com/ko/) [BSER Official Homepage](https://playeternalreturn.com/)
+[영원회귀 홈페이지](https://playeternalreturn.com/ko/) [BSER Official Homepage](https://playeternalreturn.com/) \
 [영원회귀 패치노트](https://playeternalreturn.com/ko/category/patch-notes-kr/) [BSER Patch Note](https://playeternalreturn.com/category/patch-notes/) \
 (스팀에도 있음 You can see it at BSER Steam) 
 \
