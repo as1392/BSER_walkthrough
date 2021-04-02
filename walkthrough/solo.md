@@ -1,4 +1,4 @@
-블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.02)\
+블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.02)
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 
