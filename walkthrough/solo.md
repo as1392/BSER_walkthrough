@@ -2,9 +2,36 @@
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 
-<img src="../images/characters/Adela-아델라.png" alt="아델라" width="200"/>
+<img src="../images/characters/Adela-아델라.png" alt="Adela-아델라" height="300"/>
+[이터니티] 볼틱/듀랜달 아델라 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=994212 \
+~~[이터니티] 미스틸테인 아델라 [스증/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024434~~ \
 
-[이터니티] 저크보 나딘 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322)
+<img src="../images/characters/Adriana-아드리아나.png" alt="Adriana-아드리아나" height="300"/>
+
+[이터니티] 안티오크 아드리아나 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=922172 \
+소이탄 아드리아나 [하이브리드] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=919113 \
+[이터니티] 소이탄 아드리아나 [하이브리드] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=919085 
+
+<img src="../images/characters/Aya-아야.png" alt="Aya-아야" height="300"/>
+                                                    
+<img src="../images/characters/Cachy-캐시.png" alt="Cachy-캐시" height="300"/>                                                    
+
+<img src="../images/characters/Chiara-키아라.png" alt="Chiara-키아라" height="300"/>
+
+<img src="../images/characters/Emma-엠마.png" alt="Emma-엠마" height="300"/>
+
+<img src="../images/characters/Fiora-피오라.png" alt="Fiora-피오라" height="300"/>
+
+<img src="../images/characters/Hart-하트.png" alt="Hart-하트" height="300"/>
+
+<img src="../images/characters/Hyejin-혜진.png" alt="Hyejin-혜진" height="300"/>
+
+<img src="../images/characters/Hyunwoo-현우.png" alt="Hyunwoo-현우" height="300"/>
+
+<img src="../images/characters/Isol-아이솔.png" alt="Isol-아이솔" height="300"/>
+
+<img src="../images/characters/.png" alt="" height="300"/>
+[이터니티] 저크보 나딘 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322) 
 
 글레이프니르 레녹스 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880) 
 \
@@ -84,9 +111,6 @@ For english version : see [Here](./solo_en.md)
 \
 \
 \
-[이터니티] 안티오크 아드리아나 [평타] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=922172 \
-소이탄 아드리아나 [하이브리드] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=919113 \
-[이터니티] 소이탄 아드리아나 [하이브리드] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=919085 
 \
 \
 \
@@ -238,9 +262,7 @@ XCR 아이솔 [평타] (2월) https://gall.dcinside.com/mgallery/board/view/?id=
 \
 \
 \
-\
-[이터니티] 볼틱/듀랜달 아델라 [평타/치명] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=994212 
-~~[이터니티] 미스틸테인 아델라 [스증/탱] (3월) https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024434~~
+
 \
 \
 \
