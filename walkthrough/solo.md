@@ -25,6 +25,16 @@ For english version : see [Here](./solo_en.md)
 엘레강스 아야 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925684) 
 
 
+<img src="../images/characters/Barbara-바바라.png" alt="Barbara-바바라" height="300"/>
+
+
+
+
+<img src="../images/characters/Bernice-버니스.png" alt="Bernice-버니스" height="300"/>
+
+
+
+
 
 <img src="../images/characters/Cathy-캐시.png" alt="Cathy-캐시" height="300"/>          
 
@@ -57,40 +67,44 @@ For english version : see [Here](./solo_en.md)
 <img src="../images/characters/Fiora-피오라.png" alt="Fiora-피오라" height="300"/>
 
 [이터니티] 뚜언띠엔 피오라 [평타/치명] (2월) \
-[공략] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812392) \
-[상대법 1] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812443) \
-[상대법 2] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812530) 
+[공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812392) \
+[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812443) \
+[상대법 2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812530) 
 \
 \
 [이터니티] 듀랜달 피오라 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933321) \
 듀란달 피오라 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=886140) \
 [이터니티] 듀랜달 피오라 [평타/치명] (3월) \
-[공략] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933321) \
-[상대법 1] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933324) \
-[상대법 2] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933330)
+[공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933321) \
+[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933324) \
+[상대법 2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933330)
 \
 \
 [이터니티] 듀랜달 피오라 [평타/치명] (3월) \
-[공략] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1009381) \
-[상대법 1] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038556) \
-[상대법 1] (https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038903)
+[공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1009381) \
+[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038556) \
+[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038903)
 
 
 
 <img src="../images/characters/Hart-하트.png" alt="Hart-하트" height="300"/>
+
 [이터니티] 새티스팩션/더월 하트 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=844154) \
 [이터니티] 보헤미안 하트 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=915532) \
 새티스팩션/더월 하트 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=954533) \
 [이터니티] 천국의계단 하트 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1013070)
 
 
+
 <img src="../images/characters/Hyejin-혜진.png" alt="Hyejin-혜진" height="300"/>
+
 [이터니티] 엘보 혜진 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=763221) \
 엘보 혜진 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=935175) 
 
 
 
 <img src="../images/characters/Hyunwoo-현우.png" alt="Hyunwoo-현우" height="300"/>
+
 블윙/디바인피스트 현우 [평타/탱] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=865868) \
 단영촌/소수 현우 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=784749) \
 [이터니티] 단영촌 현우 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=960053) \
@@ -106,136 +120,16 @@ For english version : see [Here](./solo_en.md)
 
 
 <img src="../images/characters/Isol-아이솔.png" alt="Isol-아이솔" height="300"/>
+
 AK-12 아이솔 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=778519) \
 XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=816337) \
 XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=843811) \
 [이터니티] 엘레강스 아이솔 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=872405) \
 매그넘보아 아이솔 [하이브리드] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=902002) 
-\
-<img src="../images/characters/.png" alt="" height="300"/>
-[이터니티] 저크보 나딘 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322) 
 
-글레이프니르 레녹스 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880) 
-\
-\
-\
-\
-\
-일렉 로지 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=870624) \
-[이터니티] 매그넘보아 로지 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=996305)
-\
-\
-\
-\
-여신상 루크 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821587) \
-여신상 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859) \
-타구봉 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=95049) \
-여신상 루크 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952492) 
-\
-\
-\
-\
-\
-\
-[이터니티] 브레이질 리다이린 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=781860) \
-[이터니티] 초진동 리다이린 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=917795) \
-[이터니티] 초진동 리다이린 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=817820) \
-빙화현옥수 리다이린 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=917020) \
-[이터니티] 단영촌 리다이린 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1013276) \
-[이터니티]디바인피스트 리다이린 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1013276)
-\
-\
-\
-\
-\
-낭아봉 매그너스 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=930218) \
-다그다 매그너스 [체젠] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=940540) \
-[이터니티] 낭아봉 매그너스 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=969058)
-[이터니티] 여신상 매그너스 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024884)
-\
-\
-\
-\
-\
-\
-[이터니티] 방천화극 쇼우 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=748909) \
-[이터니티] 애각창 쇼우 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925167)
-\
-\
-\
-\
-\
-\
-[이터니티] 파산검 쇼이치 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821949) \
-파산검 쇼이치 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=853811)
-\
-\
-\
-\
-\
-[임시] 매그넘보아 실비아 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1031339) 
-\
-\
-\
-\
-\
-\
-[이터니티] 만천화우 시셀라 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=854448) \
-다비드슬링 시셀라 [평타/치명] (2월) \
-[1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884274) \
-[2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884280) \
-건곤권 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=916672) \
-만천화우 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=946106) \
-[이터니티] 건곤권 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=971262)
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-엑스칼리버 유키 [체젠] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=910600) \
-[이터니티] 플소 유키 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=938902) \
-[이터니티] 뚜언띠엔 유키 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=939498) \
-뚜언띠엔 유키 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=965129) 
-\
-\
-\
-\
-\
-\
-[이터니티] 옥전결/푸단 자히르 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=809580) \
-[이터니티] 루테늄 자히르 [스증] (2월) \
-[1.공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=881719) \
-[2.트랩 및 상성](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=881929)
-\
-\
-\
-\
-\
-\
+
+<img src="../images/characters/Jackie-재키.png" alt="Jackie-재키" height="300"/>
+
 산타 무에르테 재키 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=764201) \
 로이거 차르 재키 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=819019) \
 아론다이트 재키 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=844945) \
@@ -249,41 +143,104 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 다마스커스 재키 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=974920) \
 [이터니티] 카른웬난 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020009) \
 [이터니티] 모노호시자오 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1029785) 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
 
-\
-\
-\
-\
-\
+
+<img src="../images/characters/Lenox-레녹스.png" alt="Lenox-레녹스" height="300"/>
+
+글레이프니르 레녹스 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880) 
+
+
+<img src="../images/characters/LiDailin-리다이린.png" alt="LiDailin-리다이린" height="300"/>
+
+
+[이터니티] 브레이질 리다이린 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=781860) \
+[이터니티] 초진동 리다이린 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=917795) \
+[이터니티] 초진동 리다이린 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=817820) \
+빙화현옥수 리다이린 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=917020) \
+[이터니티] 단영촌 리다이린 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1013276) \
+[이터니티]디바인피스트 리다이린 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1013276)
+
+
+<img src="../images/characters/Luke-루크.png" alt="Luke-루크" height="300"/>
+
+여신상 루크 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821587) \
+여신상 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859) \
+타구봉 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=95049) \
+여신상 루크 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952492) 
+
+<img src="../images/characters/Magnus-매그너스.png" alt="Magnus-매그너스" height="300"/>
+
+낭아봉 매그너스 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=930218) \
+다그다 매그너스 [체젠] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=940540) \
+[이터니티] 낭아봉 매그너스 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=969058) \
+[이터니티] 여신상 매그너스 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024884)
+
+
+<img src="../images/characters/Nadine-나딘.png" alt="Nadine-나딘" height="300"/>
+
+
+[이터니티] 저크보 나딘 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322) 
+
+
+
+<img src="../images/characters/Rozzi-로지.png" alt="Rozzi-로지" height="300"/>
+
+
+일렉 로지 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=870624) \
+[이터니티] 매그넘보아 로지 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=996305)
+
+
+
+<img src="../images/characters/Shoichi-쇼이치.png" alt="Shoichi-쇼이치" height="300"/>
+
+
+[이터니티] 파산검 쇼이치 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821949) \
+파산검 쇼이치 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=853811)
+
+
+<img src="../images/characters/Silvia-실비아.png" alt="Silva-실비아" height="300"/>
+
+[임시] 매그넘보아 실비아 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1031339) 
+
+
+<img src="../images/characters/Sissela-시셀라.png" alt="Sissela-시셀라" height="300"/>
+
+
+[이터니티] 만천화우 시셀라 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=854448) \
+다비드슬링 시셀라 [평타/치명] (2월) \
+[1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884274) \
+[2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884280) \
+건곤권 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=916672) \
+만천화우 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=946106) \
+[이터니티] 건곤권 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=971262)
+
+
+<img src="../images/characters/Xiukai-쇼우.png" alt="Xiukai-쇼우" height="300"/>
+
+
+[이터니티] 방천화극 쇼우 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=748909) \
+[이터니티] 애각창 쇼우 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925167)
+
+
+<img src="../images/characters/Yuki-유키.png" alt="Yuki-유키" height="300"/>
+
+엑스칼리버 유키 [체젠] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=910600) \
+[이터니티] 플소 유키 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=938902) \
+[이터니티] 뚜언띠엔 유키 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=939498) \
+뚜언띠엔 유키 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=965129) 
+
+
+<img src="../images/characters/Zahir-자히르.png" alt="Zahir-자히르" height="300"/>
+
+[이터니티] 옥전결/푸단 자히르 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=809580) \
+[이터니티] 루테늄 자히르 [스증] (2월) \
+[1.공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=881719) \
+[2.트랩 및 상성](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=881929)
+
+
+<img src="../images/characters/.png" alt="" height="300"/>
+
+
+<img src="../images/characters/.png" alt="" height="300"/>
+
+
