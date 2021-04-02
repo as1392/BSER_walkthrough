@@ -1,4 +1,4 @@
-# 블랙서바이벌 영원회귀 공략 BSER_walkthrough
+# 블랙서바이벌 영원회귀 공략 BSER Walkthrough
 
 \
 [솔로 공략](https://github.com/as1392/BSER_walkthrough/blob/main/walkthroughs/solo.md) \
