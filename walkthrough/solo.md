@@ -2,7 +2,7 @@
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 
-#![아델라](../images/characters/Adela-아델라.png)
+<img src="../images/characters/Adela-아델라.png" alt="아델라" width="200"/>
 
 [이터니티] 저크보 나딘 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322)
 
