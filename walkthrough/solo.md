@@ -66,23 +66,21 @@ For english version : see [Here](./solo_en.md)
 
 <img src="../images/characters/Fiora-피오라.png" alt="Fiora-피오라" height="300"/>
 
-[이터니티] 뚜언띠엔 피오라 [평타/치명] (2월) \
-[공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812392) \
-[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812443) \
+[이터니티] 뚜언띠엔 피오라 [평타/치명] (2월) 
+[공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812392) 
+[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812443) 
 [상대법 2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812530) 
-\
 \
 [이터니티] 듀랜달 피오라 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933321) \
 듀란달 피오라 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=886140) \
-[이터니티] 듀랜달 피오라 [평타/치명] (3월) \
-[공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933321) \
-[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933324) \
+[이터니티] 듀랜달 피오라 [평타/치명] (3월) 
+[공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933321) 
+[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933324) 
 [상대법 2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=933330)
 \
-\
-[이터니티] 듀랜달 피오라 [평타/치명] (3월) \
-[공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1009381) \
-[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038556) \
+[이터니티] 듀랜달 피오라 [평타/치명] (3월) 
+[공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1009381) 
+[상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038556) 
 [상대법 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038903)
 
 
@@ -112,9 +110,9 @@ For english version : see [Here](./solo_en.md)
 [이터니티] 블윙 현우 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952575) \
 [이터니티] 브레이질 현우 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1008898) \
 [이터니티] 디바인 피스트 현우 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1022840) \
-[이터니티] 택티컬 톤파 현우 [스증] (4월) \ 
-[루트 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038334) \
-[루트 2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038959) \
+[이터니티] 택티컬 톤파 현우 [스증] (4월) 
+[루트 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038334) 
+[루트 2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038959) 
 [상대법](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038959)
 
 
@@ -133,8 +131,8 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 산타 무에르테 재키 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=764201) \
 로이거 차르 재키 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=819019) \
 아론다이트 재키 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=844945) \
-카른웬난/초진동 재키 [평타/치명] (2월) \
-[1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=848590) \
+카른웬난/초진동 재키 [평타/치명] (2월)
+[1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=848590) 
 [2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=885091) 
 \
 \
@@ -207,8 +205,8 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 
 
 [이터니티] 만천화우 시셀라 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=854448) \
-다비드슬링 시셀라 [평타/치명] (2월) \
-[1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884274) \
+다비드슬링 시셀라 [평타/치명] (2월) 
+[1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884274) 
 [2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884280) \
 건곤권 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=916672) \
 만천화우 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=946106) \
@@ -233,8 +231,8 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 <img src="../images/characters/Zahir-자히르.png" alt="Zahir-자히르" height="300"/>
 
 [이터니티] 옥전결/푸단 자히르 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=809580) \
-[이터니티] 루테늄 자히르 [스증] (2월) \
-[1.공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=881719) \
+[이터니티] 루테늄 자히르 [스증] (2월) 
+[1.공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=881719) 
 [2.트랩 및 상성](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=881929)
 
 
