@@ -1,4 +1,4 @@
-블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.02)
+블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.03)
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 
@@ -60,7 +60,10 @@ For english version : see [Here](./solo_en.md)
 건곤권 엠마 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=781690) \
 풍마수리검 엠마 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=836089) \
 [이터니티] 건곤권 엠마 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=863389) \
-[이터니티] 미치광이 엠마 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=997215)
+[이터니티] 미치광이 엠마 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=997215) \
+[이터니티] 풍마/만천화우 엠마 [스증] (3월)
+[공략](https://gall.dcinside.com/mgallery/board/view?id=bser&no=1006874)
+[스킬활용법](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1041411&search_head=20&page=1)
 
 
 
