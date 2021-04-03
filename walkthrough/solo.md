@@ -136,8 +136,7 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 아론다이트 재키 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=844945) \
 ~~카른웬난/초진동 재키 [평타/치명] (2월)
 [1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=848590) 
-[2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=885091)~~ () 
-\
+[2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=885091)~~ (업데이트) 
 \
 카른웬난 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=928076) \
 산타 무에르테/파라슈 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=883771) \
@@ -165,7 +164,7 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 <img src="../images/characters/Luke-루크.png" alt="Luke-루크" height="300"/>
 
 여신상 루크 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821587) \
-~~여신상 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859)~~(글삭제됨) \
+~~여신상 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859)~~ (글삭제됨) \
 타구봉 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=95049) \
 여신상 루크 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952492) 
 
