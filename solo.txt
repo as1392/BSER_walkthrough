@@ -1,9 +1,11 @@
-<p>4월 2일자 반영</p>
+<p>4월 3일자 반영</p>
 <p><br></p>
 <p><span style="font-size:10pt;">[이터니티] </span><a href="https://gall.dcinside.com/mgallery/board/view/?%20id=bser&amp;no=858322&amp;exception_mode=recommend&amp;search_head=20&amp;page=1" style="font-size:10pt;">저크보 나딘</a><span style="font-size:10pt;"> [평타] (2월)</span><br></p>
 <p><br></p>
 <p><br></p>
+<p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=821880&amp;page=1">글레이프니르 레녹스</a> [스증] (2월)</p>
+<p><br></p>
 <p><br></p>
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=870624&amp;search_head=20&amp;page=1">일렉 로지</a> [평타] (2월)</p>
@@ -13,8 +15,6 @@
 <p><br></p>
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=821587&amp;exception_mode=recommend&amp;page=1">여신상 루크</a> [평타/치명] (2월)</p>
-<p><br></p>
-<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=895859&amp;search_head=20&amp;page=1">여신상 루크</a> [평타/치명] (3월)</p>
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=950498&amp;search_head=20&amp;page=1">타구봉 루크</a> [평타/치명] (3월)</p>
 <p><br></p>
@@ -48,8 +48,7 @@
 <p><br></p>
 <p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=748909&amp;exception_mode=recommend&amp;search_pos=-753166&amp;s_type=search_subject_memo&amp;s_keyword=%EB%8D%B0%EB%AF%B8%EA%B0%93&amp;page=1">방천화극 쇼우</a> [스증/탱] (3월)</p>
 <p><br></p>
-<p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=925167&amp;search_head=20&amp;page=1">애각창 쇼우</a> [스증/탱] (3월)</p>
-<p><br></p>
+<p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=925167&amp;search_head=20&amp;page=1">애각창/방천화극 쇼우</a> [스증/탱] (3월)</p>
 <p><br></p>
 <p><br></p>
 <p><br></p>
@@ -58,12 +57,16 @@
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=853811&amp;exception_mode=recommend&amp;page=1">파산검 쇼이치</a> [스증] (2월)</p>
 <p><br></p>
 <p><br></p>
+<p><br></p>
 <p>[임시] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1031339&amp;page=1">매그넘보아 실비아</a> [평타] (3월)</p>
+<p><br></p>
 <p><br></p>
 <p><br></p>
 <p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=854448">만천화우 시셀라</a> [스증] (2월)</p>
 <p><br></p>
-<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=884274&amp;search_head=20&amp;page=1">다비드슬링 시셀라</a> [평타/치명] (1) (2) (2월)</p>
+<p>다비드슬링 시셀라 [평타/치명]  (2월)</p>
+<p><span style="font-size:13.3333px;"><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=884274&amp;exception_mode=recommend&amp;search_head=20&amp;page=2">(공략, 상대법1</a><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=884274&amp;exception_mode=recommend&amp;search_head=20&amp;page=2">) </a></span><br></p>
+<p><span style="font-size:13.3333px;"><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=884280">(상대법2)</a></span><span style="font-size:13.3333px;"><br></span></p>
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=946106&amp;search_head=20&amp;page=1">만천화우 시셀라</a> [스증] (3월)</p>
 <p><br></p>
@@ -109,6 +112,10 @@
 <p><br></p>
 <p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=997215&amp;search_head=20&amp;page=1">미치광이 엠마</a> [평타/치명] (3월)</p>
 <p><br></p>
+<p>[이터니티] 풍마/만천화우 엠마 [스증] (3월)</p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view?id=bser&amp;no=1006874">(공략)</a></p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1041411&amp;search_head=20&amp;page=1">(스킬활용법)</a></p>
+<p><br></p>
 <p><br></p>
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=910600&amp;search_head=20&amp;page=1">엑스칼리버 유키</a> [체젠] (3월)</p>
@@ -135,19 +142,17 @@
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=844945&amp;exception_mode=recommend&amp;page=1">아론다이트 재키</a> [평타/치명] (2월)</p>
 <p><br></p>
-<p>카른웬난/초진동 재키 [평타/치명] <span style="font-size:13.3333px;">(2월)</span></p>
-<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=848590&amp;exception_mode=recommend&amp;page=1">(1) </a></p>
-<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=885091&amp;search_head=20&amp;page=1" style="font-size:10pt;">(2)</a><span style="font-size:10pt;"> </span><br></p>
-<p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=928076&amp;search_head=20&amp;page=1">카른웬난 재키 </a>[평타] (3월)</p>
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=883771&amp;search_head=20&amp;page=1">산타 무에르테/파라슈 재키</a> [평타] (3월)</p>
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=974920&amp;search_head=20&amp;page=1" style="font-size:10pt;">다마스커스 재키</a><span style="font-size:10pt;"> [평타/탱] (3월)</span><br></p>
 <p><span style="font-size:10pt;"><br></span></p>
-<p><span style="font-size:10pt;">[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1020009&amp;search_head=40&amp;page=1">카른웬난 재키</a> [평타] (3월)</span></p>
+<p><span style="font-size:10pt;">[이터니티] 단검/쌍검/양손검/도끼<a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1020009&amp;search_head=40&amp;page=1"> 재키</a> [종합] (3월)</span></p>
 <p><br></p>
 <p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1029785&amp;search_head=20&amp;page=1">모노호시자오 재키</a><span style="font-size:13.3333px;"> [평타] (3월)</span><br></p>
+<p><span style="font-size:13.3333px;"><br></span></p>
+<p><span style="font-size:13.3333px;">[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1021644&amp;search_head=20&amp;page=1">카른웬난 재키</a> [평타] (3월)</span></p>
 <p><br></p>
 <p><br></p>
 <p><br></p>
@@ -231,8 +236,6 @@
 <p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=763221&amp;exception_mode=recommend&amp;page=1">엘보 혜진</a> [스증] (2월)</p>
 <p><br></p>
 <p><br></p>
-<p><br></p>
-<p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=994212&amp;search_head=20&amp;page=1">볼틱/듀랜달 아델라</a> [평타/치명] (3월)</p>
 <p><br></p>
 <p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1024434&amp;search_head=20&amp;page=1">미스틸테</a><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1024434&amp;search_head=20&amp;page=1">인 아델라</a> [스증/탱] (3월)</p>
 <p><br></p>
