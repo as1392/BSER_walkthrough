@@ -142,9 +142,9 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 카른웬난 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=928076) \
 산타 무에르테/파라슈 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=883771) \
 다마스커스 재키 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=974920) \
-[이터니티] 카른웬난 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020009) \
-[이터니티] 모노호시자오 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1029785) 
-
+[이터니티] 단검/쌍검/양손검/도끼 재키 [종합] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020009) \
+[이터니티] 모노호시자오 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1029785) \
+[이터니티] 카른웬난 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1021644&search_head=20&page=1)
 
 <img src="../images/characters/Lenox-레녹스.png" alt="Lenox-레녹스" height="300"/>
 
@@ -165,7 +165,7 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 <img src="../images/characters/Luke-루크.png" alt="Luke-루크" height="300"/>
 
 여신상 루크 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821587) \
-여신상 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859) \
+~~여신상 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859)~~ \
 타구봉 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=95049) \
 여신상 루크 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952492) 
 
@@ -209,18 +209,18 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 
 [이터니티] 만천화우 시셀라 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=854448) \
 다비드슬링 시셀라 [평타/치명] (2월) 
-[1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884274) 
-[2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884280) \
-건곤권 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=916672) \
+[공략, 상대법1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884274) 
+[상대법2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=884280) \
 만천화우 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=946106) \
-[이터니티] 건곤권 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=971262)
+[이터니티] 건곤권 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=971262) \
+[이터니티] 건곤권 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1027778&search_head=20&page=1)
 
 
 <img src="../images/characters/Xiukai-쇼우.png" alt="Xiukai-쇼우" height="300"/>
 
 
 [이터니티] 방천화극 쇼우 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=748909) \
-[이터니티] 애각창 쇼우 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925167)
+[이터니티] 애각창/방천화극 쇼우 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925167)
 
 
 <img src="../images/characters/Yuki-유키.png" alt="Yuki-유키" height="300"/>
