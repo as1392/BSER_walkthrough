@@ -1,4 +1,4 @@
-블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.03)
+블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.04)
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 
@@ -50,7 +50,7 @@ For english version : see [Here](./solo_en.md)
 [이터니티] 미스틸테인 키아라 [스증/탱] (2월) [링크](https://gall.dcinside.com/mgallery/board/view?id=bser&no=735705) \
 볼틱레토 키아라 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=761320) \
 듀랜달 키아라 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=816160) \
-[이터니티] 미스틸테인 키아라 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=943952) \
+[이터니티] 미스틸테인 키아라 [스증/탱] (3월) [링크](https://m.dcinside.com/board/bser/1045301) \
 볼틱레토 키아라 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=891918)
 
 
@@ -116,7 +116,8 @@ For english version : see [Here](./solo_en.md)
 [이터니티] 택티컬 톤파 현우 [스증] (4월) 
 [루트 1](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038334) 
 [루트 2](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038959) 
-[상대법](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038959)
+[상대법](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1038959) \
+[이터니티] 글러브 현우 루트모음 [평타/탱] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1043916&search_head=20&page=1)
 
 
 
@@ -143,7 +144,8 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 다마스커스 재키 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=974920) \
 [이터니티] 단검/쌍검/양손검/도끼 재키 [종합] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020009) \
 [이터니티] 모노호시자오 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1029785) \
-[이터니티] 카른웬난 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1021644&search_head=20&page=1)
+[이터니티] 카른웬난 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1021644&search_head=20&page=1) \
+[이터니티] 산타 무에르테 재키 [평타] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1043397&search_head=20&page=1)
 
 <img src="../images/characters/Lenox-레녹스.png" alt="Lenox-레녹스" height="300"/>
 
