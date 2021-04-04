@@ -99,8 +99,9 @@ For english version : see [Here](./solo_en.md)
 
 <img src="../images/characters/Hyejin-혜진.png" alt="Hyejin-혜진" height="300"/>
 
-[이터니티] 엘보 혜진 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=763221) \
-엘보 혜진 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=935175) 
+엘보 혜진 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=763221) \
+엘보 혜진 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=935175) \
+[이터니티] 엘보 혜진 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1005473&search_head=20&page=1)
 
 
 
