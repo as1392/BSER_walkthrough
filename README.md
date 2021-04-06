@@ -17,7 +17,7 @@
 \
 \
 [영원회귀 통계](https://playeternalreturn.com/ko/stats/) [BSER Stats](https://playeternalreturn.com/stats/) \
-[영원회귀 공식 위키 BSER Official Wiki](https://eternalreturn.fandom.com/ko/wiki/Eternal_Return_Wiki)
+[영원회귀 공식 위키 BSER Official Wiki](https://eternalreturn.fandom.com/ko/wiki/Eternal_Return_Wiki) \
 [영원회귀 스팀 BSER Steam](https://store.steampowered.com/app/1049590/Eternal_Return_Black_Survival/) \
 [영원회귀 팬킷 BSER Fankit](https://www.playeternalreturn.com/fankit) \
 [영원회귀 공식 디스코드 BSER Official discord](https://discord.com/invite/eternalreturn) \
