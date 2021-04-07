@@ -1,4 +1,9 @@
-<p>4월 4일자 반영</p>
+<p>4월 7일자 반영</p>
+<p><br></p>
+<p>참고사항 : 제국왕관 조합식 변경으로 못쓰게 되거나 제국왕관이 이전보다 늦게 나오는 루트가 있음</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
 <p><br></p>
 <p><span style="font-size:10pt;">[이터니티] </span><a href="https://gall.dcinside.com/mgallery/board/view/?%20id=bser&amp;no=858322&amp;exception_mode=recommend&amp;search_head=20&amp;page=1" style="font-size:10pt;">저크보 나딘</a><span style="font-size:10pt;"> [평타] (2월)</span><br></p>
 <p><br></p>
@@ -40,7 +45,7 @@
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=940540&amp;search_head=20&amp;page=1">다그다 매그너스</a> [체젠] (3월)</p>
 <p><br></p>
-<p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=969058&amp;search_head=20&amp;page=1">낭아봉 매그너스</a> [스증] (3월)</p>
+<p><strike>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=969058&amp;search_head=20&amp;page=1">낭아봉 매그너스</a> [스증] (3월)</strike> 왕관 변경</p>
 <p><br></p>
 <p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1024884&amp;search_head=20&amp;page=1">여신상 매그너스</a> [평타/치명] (3월)</p>
 <p><br></p>
@@ -88,6 +93,8 @@
 <p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=742499&amp;exception_mode=recommend&amp;search_pos=-743166&amp;s_type=search_subject_memo&amp;s_keyword=%EB%8D%B0%EB%AF%B8%EA%B0%93&amp;page=1">엘레강스 아야</a> [스증] (3월)</p>
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=925684&amp;search_head=20&amp;page=1">엘레강스 아야</a> [스증] (3월)</p>
+<p><br></p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1057952&amp;search_head=20&amp;page=1">NTW-20 아야</a> [스증] (4월)</p>
 <p><br></p>
 <p><br></p>
 <p><br></p>
@@ -235,22 +242,26 @@
 <p><br></p>
 <p><br></p>
 <p><br></p>
-<p>[데미갓] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=763221&amp;exception_mode=recommend&amp;page=1">엘보 혜진</a> [스증] (2월)</p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=763221&amp;exception_mode=recommend&amp;page=1">엘보 혜진</a> [스증] (2월)</p>
 <p><br></p>
-<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=935175&amp;search_head=20&amp;page=1" style="font-size: 13.3333px;">엘보 혜진</a><span style="font-size: 13.3333px;">&nbsp;[스증] (3월)</span><br></p>
-<p><span style="font-size: 13.3333px;"><br></span></p>
-<p><span style="font-size: 13.3333px;">﻿<a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1005473&amp;search_head=20&amp;page=1" target="_blank" class="tx-link">[이터니티] 엘보 혜진 [스증] (3월)</a>﻿</span></p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=935175&amp;search_head=20&amp;page=1" style="font-size:13.3333px;">엘보 혜진</a><span style="font-size:13.3333px;"> [스증] (3월)</span><br></p>
+<p><span style="font-size:13.3333px;"><br></span></p>
+<p><span style="font-size:13.3333px;"><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1005473&amp;search_head=20&amp;page=1">[이터니티] 엘보 혜진 [스증] (3월)</a></span></p>
 <p><br></p>
 <p><br></p>
 <p><br></p>
 <p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1024434&amp;search_head=20&amp;page=1">미스틸테</a><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1024434&amp;search_head=20&amp;page=1">인 아델라</a> [스증/탱] (3월)</p>
 <p><br></p>
 <p><br></p>
-<p>- 4월 <span style="font-size:10pt;">프리시즌</span></p>
+<p>- 4월 <span style="font-size:10pt;">프리시즌 (티어 무관)</span></p>
 <p><span style="font-size:10pt;"><br></span></p>
 <p>[임시] <a href="https://gall.dcinside.com/m/bser/1036338">돌소 아이솔, 바바라 루트</a></p>
 <p><br></p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1051701&amp;exception_mode=recommend&amp;page=1">플라즈마 윕 레녹스 루트</a></p>
 <p><br></p>
+<p>95식 자동소총 아이솔 루트</p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1048708&amp;search_head=20&amp;page=1">(호텔 스타트)</a></p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1048835&amp;search_head=20&amp;page=1">(양궁장 스타트)</a></p>
 <p><br></p>
 <p>공략 모음집 백업 페이지</p>
 <p><br></p>
