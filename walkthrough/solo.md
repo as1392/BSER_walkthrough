@@ -1,7 +1,9 @@
-블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.04)
+블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.07)
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 
+
+참고사항 : 제국왕관 조합식 변경으로 못쓰게 되거나 제국왕관이 이전보다 늦게 나오는 루트가 있음
 
 
 <img src="../images/characters/Adela-아델라.png" alt="Adela-아델라" height="300"/>
@@ -22,7 +24,8 @@ For english version : see [Here](./solo_en.md)
 <img src="../images/characters/Aya-아야.png" alt="Aya-아야" height="300"/>
 
 [이터니티] 엘레강스 아야 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=742499) \
-엘레강스 아야 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925684) 
+엘레강스 아야 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925684) \
+NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1057952&search_head=20&page=1)
 
 
 <img src="../images/characters/Barbara-바바라.png" alt="Barbara-바바라" height="300"/>
@@ -175,7 +178,7 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 
 낭아봉 매그너스 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=930218) \
 다그다 매그너스 [체젠] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=940540) \
-[이터니티] 낭아봉 매그너스 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=969058) \
+~~[이터니티] 낭아봉 매그너스 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=969058)~~ (왕관 조합식 변경) \
 [이터니티] 여신상 매그너스 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024884)
 
 
