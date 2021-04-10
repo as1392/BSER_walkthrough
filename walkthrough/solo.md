@@ -1,4 +1,4 @@
-블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.08)
+블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.10)
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 
@@ -231,11 +231,11 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 <img src="../images/characters/Yuki-유키.png" alt="Yuki-유키" height="300"/>
 
 엑스칼리버 유키 [체젠] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=910600) \
-[이터니티] 뚜언띠엔/호푸어드 유키 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=939498) \
 뚜언띠엔 유키 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=965129) \
 [이터니티] 플라즈마 소드/레바테인 유키 [평타] (4월) 
 [공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1059883&search_head=20&page=1)
-[상대법](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1059888&search_head=20&page=1)
+[상대법](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1059888&search_head=20&page=1) \
+[이터니티] 호푸어드 유키 [평타/치명] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1066301&search_head=20&page=1)
 
 
 <img src="../images/characters/Zahir-자히르.png" alt="Zahir-자히르" height="300"/>
