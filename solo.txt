@@ -1,4 +1,4 @@
-<p>4월 8일자 반영</p>
+<p>4월 10일자 반영</p>
 <p><br></p>
 <p>참고사항 : 제국왕관 조합식 변경으로 못쓰게 되거나 제국왕관이 이전보다 늦게 나오는 루트가 있음</p>
 <p><br></p>
@@ -127,13 +127,13 @@
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=910600&amp;search_head=20&amp;page=1">엑스칼리버 유키</a> [체젠] (3월)</p>
 <p><br></p>
-<p>[이터니티] <a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=939498&amp;search_head=20&amp;page=1">뚜언띠엔/호푸어드 유키</a> [평타/치명] (3월)</p>
-<p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=965129&amp;search_head=20&amp;page=1">뚜언띠엔 유키</a> [평타/치명] (3월)</p>
 <p><br></p>
 <p>[이터니티] 플라즈마 소드/레바테인 [평타] (4월)</p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1059883&amp;search_head=20&amp;page=1">(공략)</a></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1059888&amp;search_head=20&amp;page=1">(상대법)</a></p>
+<p><br></p>
+<p><span style="font-size:13.3333px;">[이터니티] </span><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1066301&amp;search_head=20&amp;page=1" style="font-size:13.3333px;">호푸어드 유키</a><span style="font-size:13.3333px;"> [평타/치명] (4월)</span><br></p>
 <p><br></p>
 <p><br></p>
 <p><br></p>
@@ -257,13 +257,19 @@
 <p><br></p>
 <p>- 4월 <span style="font-size:10pt;">프리시즌 (티어 무관)</span></p>
 <p><span style="font-size:10pt;"><br></span></p>
-<p>[임시] <a href="https://gall.dcinside.com/m/bser/1036338">돌소 아이솔, 바바라 루트</a></p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1065540&amp;search_head=20&amp;page=1">이터니티 바바라 루트 모음</a></p>
 <p><br></p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1051701&amp;exception_mode=recommend&amp;page=1">플라즈마 윕 레녹스 루트</a></p>
 <p><br></p>
 <p>95식 자동소총 아이솔 루트</p>
 <p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1048708&amp;search_head=20&amp;page=1">(호텔 스타트)</a></p>
-<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1048835&amp;search_head=20&amp;page=1">(양궁장 스타트)</a></p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1065895&amp;search_head=20&amp;page=1">(양궁장 스타트)</a></p>
+<p><br></p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1060148&amp;search_head=20&amp;page=1">[하위리가를 위한] 글레이프니르 레녹스 루트</a></p>
+<p><br></p>
+<p><a href="https://gall.dcinside.com/mgallery/board/view/?id=bser&amp;no=1065265&amp;search_head=20&amp;page=1">발리스타 탱나딘 루트</a></p>
+<p><br></p>
+<p><br></p>
 <p><br></p>
 <p>공략 모음집 백업 페이지</p>
 <p><br></p>
