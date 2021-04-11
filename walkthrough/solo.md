@@ -1,4 +1,4 @@
-블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.10)
+블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.11)
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 
@@ -30,6 +30,8 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 
 <img src="../images/characters/Barbara-바바라.png" alt="Barbara-바바라" height="300"/>
 
+
+[데미갓] 타구봉 바바라 [평타/탱] (4월) [링크](https://gall.dcinside.com/m/bser/1068504)
 
 
 
