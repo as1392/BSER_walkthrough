@@ -1,4 +1,4 @@
-블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.11)
+블랙서바이벌 영원회귀 데미갓/이터니티 공략 모음(21.04.15)
 [원본](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1020751) \
 For english version : see [Here](./solo_en.md)
 
@@ -31,7 +31,7 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 <img src="../images/characters/Barbara-바바라.png" alt="Barbara-바바라" height="300"/>
 
 
-[데미갓] 타구봉 바바라 [평타/탱] (4월) [링크](https://gall.dcinside.com/m/bser/1068504)
+타구봉 바바라 [평타/탱] (4월) [링크](https://gall.dcinside.com/m/bser/1068504)
 
 
 
@@ -47,7 +47,8 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 카른웬난 캐시 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=896607) \
 카른웬난 캐시 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=947059) \
 [이터니티] 카른웬난 캐시 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1026548) \
-[이터니티] 초진동/다마스커스 가시 캐시 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1034034) 
+[이터니티] 초진동/다마스커스 가시 캐시 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1034034) \
+[이터니티] 파산검 캐시 [하이브리드] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1069130)
 
 
 <img src="../images/characters/Chiara-키아라.png" alt="Chiara-키아라" height="300"/>
@@ -68,7 +69,11 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 [이터니티] 미치광이 엠마 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=997215) \
 [이터니티] 풍마/만천화우 엠마 [스증] (3월)
 [공략](https://gall.dcinside.com/mgallery/board/view?id=bser&no=1006874)
-[스킬활용법](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1041411&search_head=20&page=1)
+[스킬활용법](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1041411&search_head=20&page=1) 
+\
+[이터니티] 플레셋 엠마 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1068724) \
+[이터니티] 풍마 수리검 엠마 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1076443&search_head=20&page=1)
+
 
 
 
@@ -155,7 +160,8 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 
 <img src="../images/characters/Lenox-레녹스.png" alt="Lenox-레녹스" height="300"/>
 
-글레이프니르 레녹스 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880) 
+글레이프니르 레녹스 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880) \
+글레이프니르 레녹스 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1077558&search_head=20&page=1)
 
 
 <img src="../images/characters/LiDailin-리다이린.png" alt="LiDailin-리다이린" height="300"/>
@@ -174,14 +180,16 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 여신상 루크 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821587) \
 ~~여신상 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859)~~ (글삭제됨) \
 타구봉 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=95049) \
-여신상 루크 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952492) 
+여신상 루크 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952492) \
+[이터니티] 타구봉 루크 [평타/치명] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1071126&search_head=20&page=1)
 
 <img src="../images/characters/Magnus-매그너스.png" alt="Magnus-매그너스" height="300"/>
 
 낭아봉 매그너스 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=930218) \
 다그다 매그너스 [체젠] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=940540) \
 ~~[이터니티] 낭아봉 매그너스 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=969058)~~ (왕관 조합식 변경) \
-[이터니티] 여신상 매그너스 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024884)
+[이터니티] 여신상 매그너스 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024884) \
+[이터니티] 다그다의 망치 매그너스 [탱] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1074891&search_head=20&page=1)
 
 
 <img src="../images/characters/Nadine-나딘.png" alt="Nadine-나딘" height="300"/>
