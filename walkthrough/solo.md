@@ -6,42 +6,44 @@ For english version : see [Here](./solo_en.md)
 참고사항 : 제국왕관 조합식 변경으로 못쓰게 되거나 제국왕관이 이전보다 늦게 나오는 루트가 있음
 
 
-<img src="../images/characters/Adela-아델라.png" alt="Adela-아델라" height="300"/>
+<img src="../images/characters/half/Adela-아델라.png" alt="Adela-아델라" height="300"/>
 
 [이터니티] 볼틱/듀랜달 아델라 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=994212) \
 ~~[이터니티] 미스틸테인 아델라 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1024434)~~ (작성자 왈 '뒤짐')
 
 
 
-<img src="../images/characters/Adriana-아드리아나.png" alt="Adriana-아드리아나" height="300"/>
+<img src="../images/characters/half/Adriana-아드리아나.png" alt="Adriana-아드리아나" height="300"/>
 
 [이터니티] 안티오크 아드리아나 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=922172) \
 소이탄 아드리아나 [하이브리드] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=919113) \
 [이터니티] 소이탄 아드리아나 [하이브리드] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=919085) 
 
 
+<img src="../images/characters/half/Alex-알렉스.png" alt="Ales-알렉스" height="300"/>
 
-<img src="../images/characters/Aya-아야.png" alt="Aya-아야" height="300"/>
+
+<img src="../images/characters/half/Aya-아야.png" alt="Aya-아야" height="300"/>
 
 [이터니티] 엘레강스 아야 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=742499) \
 엘레강스 아야 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925684) \
 NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1057952&search_head=20&page=1)
 
 
-<img src="../images/characters/Barbara-바바라.png" alt="Barbara-바바라" height="300"/>
+<img src="../images/characters/half/Barbara-바바라.png" alt="Barbara-바바라" height="300"/>
 
 
 타구봉 바바라 [평타/탱] (4월) [링크](https://gall.dcinside.com/m/bser/1068504)
 
 
 
-<img src="../images/characters/Bernice-버니스.png" alt="Bernice-버니스" height="300"/>
+<img src="../images/characters/half/Bernice-버니스.png" alt="Bernice-버니스" height="300"/>
 
 
 
 
 
-<img src="../images/characters/Cathy-캐시.png" alt="Cathy-캐시" height="300"/>          
+<img src="../images/characters/half/Cathy-캐시.png" alt="Cathy-캐시" height="300"/>          
 
 카른웬난 캐시 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=922612) \
 카른웬난 캐시 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=896607) \
@@ -51,7 +53,7 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 [이터니티] 파산검 캐시 [하이브리드] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1069130)
 
 
-<img src="../images/characters/Chiara-키아라.png" alt="Chiara-키아라" height="300"/>
+<img src="../images/characters/half/Chiara-키아라.png" alt="Chiara-키아라" height="300"/>
 
 [이터니티] 미스틸테인 키아라 [스증/탱] (2월) [링크](https://gall.dcinside.com/mgallery/board/view?id=bser&no=735705) \
 볼틱레토 키아라 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=761320) \
@@ -61,7 +63,7 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 
 
 
-<img src="../images/characters/Emma-엠마.png" alt="Emma-엠마" height="300"/>
+<img src="../images/characters/half/Emma-엠마.png" alt="Emma-엠마" height="300"/>
 
 건곤권 엠마 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=781690) \
 풍마수리검 엠마 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=836089) \
@@ -77,7 +79,7 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 
 
 
-<img src="../images/characters/Fiora-피오라.png" alt="Fiora-피오라" height="300"/>
+<img src="../images/characters/half/Fiora-피오라.png" alt="Fiora-피오라" height="300"/>
 
 [이터니티] 뚜언띠엔 피오라 [평타/치명] (2월) 
 [공략](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=812392) 
@@ -98,7 +100,7 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 
 
 
-<img src="../images/characters/Hart-하트.png" alt="Hart-하트" height="300"/>
+<img src="../images/characters/half/Hart-하트.png" alt="Hart-하트" height="300"/>
 
 [이터니티] 새티스팩션/더월 하트 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=844154) \
 [이터니티] 보헤미안 하트 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=915532) \
@@ -107,7 +109,7 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 
 
 
-<img src="../images/characters/Hyejin-혜진.png" alt="Hyejin-혜진" height="300"/>
+<img src="../images/characters/half/Hyejin-혜진.png" alt="Hyejin-혜진" height="300"/>
 
 엘보 혜진 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=763221) \
 엘보 혜진 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=935175) \
@@ -115,7 +117,7 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 
 
 
-<img src="../images/characters/Hyunwoo-현우.png" alt="Hyunwoo-현우" height="300"/>
+<img src="../images/characters/half/Hyunwoo-현우.png" alt="Hyunwoo-현우" height="300"/>
 
 블윙/디바인피스트 현우 [평타/탱] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=865868) \
 단영촌/소수 현우 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=784749) \
@@ -132,7 +134,7 @@ NTW-20 아야 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/
 
 
 
-<img src="../images/characters/Isol-아이솔.png" alt="Isol-아이솔" height="300"/>
+<img src="../images/characters/half/Isol-아이솔.png" alt="Isol-아이솔" height="300"/>
 
 AK-12 아이솔 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=778519) \
 XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=816337) \
@@ -141,7 +143,7 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 매그넘보아 아이솔 [하이브리드] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=902002) 
 
 
-<img src="../images/characters/Jackie-재키.png" alt="Jackie-재키" height="300"/>
+<img src="../images/characters/half/Jackie-재키.png" alt="Jackie-재키" height="300"/>
 
 산타 무에르테 재키 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=764201) \
 로이거 차르 재키 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=819019) \
@@ -158,13 +160,13 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 [이터니티] 카른웬난 재키 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1021644&search_head=20&page=1) \
 [이터니티] 산타 무에르테 재키 [평타] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1043397&search_head=20&page=1)
 
-<img src="../images/characters/Lenox-레녹스.png" alt="Lenox-레녹스" height="300"/>
+<img src="../images/characters/half/Lenox-레녹스.png" alt="Lenox-레녹스" height="300"/>
 
 글레이프니르 레녹스 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821880) \
 글레이프니르 레녹스 [스증] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1077558&search_head=20&page=1)
 
 
-<img src="../images/characters/LiDailin-리다이린.png" alt="LiDailin-리다이린" height="300"/>
+<img src="../images/characters/half/LiDailin-리다이린.png" alt="LiDailin-리다이린" height="300"/>
 
 
 [이터니티] 브레이질 리다이린 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=781860) \
@@ -175,7 +177,7 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 [이터니티]디바인피스트 리다이린 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1013276)
 
 
-<img src="../images/characters/Luke-루크.png" alt="Luke-루크" height="300"/>
+<img src="../images/characters/half/Luke-루크.png" alt="Luke-루크" height="300"/>
 
 여신상 루크 [평타/치명] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821587) \
 ~~여신상 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859)~~ (글삭제됨) \
@@ -183,7 +185,7 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 여신상 루크 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952492) \
 [이터니티] 타구봉 루크 [평타/치명] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1071126&search_head=20&page=1)
 
-<img src="../images/characters/Magnus-매그너스.png" alt="Magnus-매그너스" height="300"/>
+<img src="../images/characters/half/Magnus-매그너스.png" alt="Magnus-매그너스" height="300"/>
 
 낭아봉 매그너스 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=930218) \
 다그다 매그너스 [체젠] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=940540) \
@@ -192,14 +194,14 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 [이터니티] 다그다의 망치 매그너스 [탱] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1074891&search_head=20&page=1)
 
 
-<img src="../images/characters/Nadine-나딘.png" alt="Nadine-나딘" height="300"/>
+<img src="../images/characters/half/Nadine-나딘.png" alt="Nadine-나딘" height="300"/>
 
 
 [이터니티] 저크보 나딘 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=858322) 
 
 
 
-<img src="../images/characters/Rozzi-로지.png" alt="Rozzi-로지" height="300"/>
+<img src="../images/characters/half/Rozzi-로지.png" alt="Rozzi-로지" height="300"/>
 
 
 일렉 로지 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=870624) \
@@ -207,19 +209,19 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 
 
 
-<img src="../images/characters/Shoichi-쇼이치.png" alt="Shoichi-쇼이치" height="300"/>
+<img src="../images/characters/half/Shoichi-쇼이치.png" alt="Shoichi-쇼이치" height="300"/>
 
 
 [이터니티] 파산검 쇼이치 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=821949) \
 파산검 쇼이치 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=853811)
 
 
-<img src="../images/characters/Silvia-실비아.png" alt="Silva-실비아" height="300"/>
+<img src="../images/characters/half/Silvia-실비아.png" alt="Silva-실비아" height="300"/>
 
 [임시] 매그넘보아 실비아 [평타] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1031339) 
 
 
-<img src="../images/characters/Sissela-시셀라.png" alt="Sissela-시셀라" height="300"/>
+<img src="../images/characters/half/Sissela-시셀라.png" alt="Sissela-시셀라" height="300"/>
 
 
 [이터니티] 만천화우 시셀라 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=854448) \
@@ -231,14 +233,14 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 [이터니티] 건곤권 시셀라 [스증] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1027778&search_head=20&page=1)
 
 
-<img src="../images/characters/Xiukai-쇼우.png" alt="Xiukai-쇼우" height="300"/>
+<img src="../images/characters/half/Xiukai-쇼우.png" alt="Xiukai-쇼우" height="300"/>
 
 
 [이터니티] 방천화극 쇼우 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=748909) \
 [이터니티] 애각창/방천화극 쇼우 [스증/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=925167)
 
 
-<img src="../images/characters/Yuki-유키.png" alt="Yuki-유키" height="300"/>
+<img src="../images/characters/half/Yuki-유키.png" alt="Yuki-유키" height="300"/>
 
 엑스칼리버 유키 [체젠] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=910600) \
 뚜언띠엔 유키 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=965129) \
@@ -248,7 +250,7 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 [이터니티] 호푸어드 유키 [평타/치명] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1066301&search_head=20&page=1)
 
 
-<img src="../images/characters/Zahir-자히르.png" alt="Zahir-자히르" height="300"/>
+<img src="../images/characters/half/Zahir-자히르.png" alt="Zahir-자히르" height="300"/>
 
 [이터니티] 옥전결/푸단 자히르 [스증] (2월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=809580) \
 [이터니티] 루테늄 자히르 [스증] (2월) 
@@ -256,9 +258,9 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 [2.트랩 및 상성](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=881929)
 
 
-<img src="../images/characters/.png" alt="" height="300"/>
+<img src="../images/characters/half/.png" alt="" height="300"/>
 
 
-<img src="../images/characters/.png" alt="" height="300"/>
+<img src="../images/characters/half/.png" alt="" height="300"/>
 
 
