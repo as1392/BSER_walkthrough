@@ -183,7 +183,9 @@ XCR 아이솔 [평타] (2월) [링크](https://gall.dcinside.com/mgallery/board/
 ~~여신상 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=895859)~~ (글삭제됨) \
 타구봉 루크 [평타/치명] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=95049) \
 여신상 루크 [평타/탱] (3월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=952492) \
-[이터니티] 타구봉 루크 [평타/치명] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1071126&search_head=20&page=1)
+[이터니티] 타구봉 루크 [평타/치명] (4월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1071126&search_head=20&page=1) \
+[데미갓] 루크 루트 3가지공략 [평타/치명/탱/깡공] (5월) [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1265824&exception_mode=recommend&search_head=20&page=1) \
+루크 미세팁 [링크](https://gall.dcinside.com/mgallery/board/view/?id=bser&no=1175119&exception_mode=recommend&search_head=20&page=1)
 
 <img src="../images/characters/half/Magnus-매그너스.png" alt="Magnus-매그너스" height="300"/>
 
